@@ -15,3 +15,5 @@ My research interests lie at the intersection of sustainability, artificial inte
 
 **I am on the 2024-2025 academic job market**.
 
+[[Curriculum Vitae]()]
+
