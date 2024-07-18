@@ -12,8 +12,8 @@ main:
   - title: "Industry Collaboration"
     url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
     
-  - title: "Misc"
-    url: /markdown/
+  # - title: "Misc"
+  #  url: /misc/
