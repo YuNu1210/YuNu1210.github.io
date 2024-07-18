@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am Yu Nu, a final-year PhD candidate in Johnson Graduate School of Management at Cornell Tech/Cornell University, where I am very fortunate to be advised by Prof. [Karan Girotra] (https://tech.cornell.edu/people/karan-girotra/) (Chair) and Prof. [Elena Belavina] (https://sha.cornell.edu/faculty-research/faculty/eb733/) (Co-chair). I hold a Bachelor's degree in Management Science & Engineering from Wuhan University, China.
+I am Yu Nu, a final-year PhD candidate in the Operations, Technology, and Information Management (OTIM) division of SC Johnson College of Business at [Cornell Tech](https://tech.cornell.edu/), where I am very fortunate to be advised by Prof. [Karan Girotra](https://tech.cornell.edu/people/karan-girotra/) (Chair) and Prof. [Elena Belavina](https://sha.cornell.edu/faculty-research/faculty/eb733/) (Co-chair). I obtained my Bachelor's degree in Management Science & Engineering from [Wuhan University](https://en.whu.edu.cn/), China. 
 
-I am broadly interested in sustainability, AI and operations, with a particular focus on food waste. 
+My research interests lie at the intersection of sustainability, artificial intelligence (AI), and operations management. I am particularly passionate about exploring how AI-based technologies can transform food waste management within commercial kitchens. Also, I integrate advanced data-driven analytics and insights into human-AI interaction to pioneer innovative solutions for effectively managing perishable inventory systems. My research methodology includes employing causal inference analyses, machine learning techniques, and data-driven optimization strategies. 
 
 **I am on the 2024-2025 academic job market**.
 
