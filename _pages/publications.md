@@ -21,5 +21,5 @@ author_profile: true
 ## Undergraduate Research
 * "Pricing and Capacity Allocation: Implications for Manufacturers with Product Sharing." with Bin Dai. *Naval Research Logistics* 2020, 67(3): 201-222. [[Document](https://YuNu1210.github.io/files/NRL_ProductSharing.pdf)]
 
-* "Interactions of Traceability and Reliability Optimization in a Competitive Supply Chain with Product Recall." with Bin Dai, Xia Xie, and Jianbin Li. *European Journal of Operational Research* 2021, 290(1): 116-131. [[Document](https://YuNu1210.github.io/files/EJOR_ProductSharing.pdf)]
+* "Interactions of Traceability and Reliability Optimization in a Competitive Supply Chain with Product Recall." with Bin Dai, Xia Xie, and Jianbin Li. *European Journal of Operational Research* 2021, 290(1): 116-131. [[Document](https://YuNu1210.github.io/files/EJOR_ProductRecall.pdf)]
 
