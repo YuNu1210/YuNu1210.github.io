@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Teaching & Service
-
 ## Teaching 
 SC Johnson College of Business, Cornell Tech
 #### Instructor
