@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 ## Teaching 
 SC Johnson College of Business, Cornell Tech
-#### Instructor
+### Instructor
 * NCCW 5080 Managing Operations (Healthcare EMBA Core)
    * Co-host weekly review sessions
    * Fall 2022
@@ -17,7 +17,7 @@ SC Johnson College of Business, Cornell Tech
    * Co-host weekly review sessions
    * Fall 2021
      
-#### Teaching Assistant
+### Teaching Assistant
 * NCCE 5080 Managing Operations (EMBA Core)
   * Spring 2022, 2021
     
@@ -26,9 +26,10 @@ SC Johnson College of Business, Cornell Tech
 
 
 ## Professional Service
-#### External Service
+### External Service
 * Co-chair for MSOM SIG Session at INFORMS Annual Meeting, 2024
 * Program committee member for INFORMS Data Science Workshop, 2024
 * Reviwer for BOM Best Student Paper Competition, 2024
-#### Internal Service
+  
+### Internal Service
 * Co-chair for Cornell Johnson OTIM PhD Forum, 2021-2022
