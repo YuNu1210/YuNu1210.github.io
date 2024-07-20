@@ -3,14 +3,14 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+ # - title: "Talks"
+ #   url: /talks/    
 
   - title: "Teaching & Service"
     url: /teaching/    
     
-  - title: "Industry Collaboration"
-    url: /industry/
+  # - title: "Industry Collaboration"
+  #  url: /industry/
     
   # - title: "CV"
   #  url: /cv/
