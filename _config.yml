@@ -21,18 +21,18 @@ repository               : "YuNu1210/YuNu1210.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_photo_YuNu.png"
+  avatar           : "Headshot_photo_YuNu.png"
   name             : "Yu Nu"
   pronouns         : "She/her" # example: "she/her/hers"  
   bio              : "PhD Candidate"
   location         : "New York"
-  employer         : "Cornell University"
+  employer         : "Cornell Tech/Cornell University"
   uri              : # URL
   email            : "yn292@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3683414"  
+  googlescholar    : "https://scholar.google.com/citations?user=2K6k9OgAAAAJ&hl=en"  
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-1305-7725?lang=en"
   semantic         : # URL
