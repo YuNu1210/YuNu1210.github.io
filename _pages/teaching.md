@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Johnson Graduate School of Management, Cornell Tech
+## SC Johnson College of Business, Cornell Tech
 ### Instructor
 * NCCW 5080 Managing Operations (Healthcare EMBA Core)
    * Co-host weekly review sessions
