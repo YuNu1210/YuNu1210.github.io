@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Teaching & Service"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+## Johnson Graduate School of Management, Cornell Tech
+### Instructor
+* NCCW 5080 Managing Operations (Healthcare EMBA Core)
+   * Co-host weekly review sessions
+   * Fall 2022
+     
+* NCCY 5080 Managing Operations (MBA Core)
+   * Co-host weekly review sessions
+   * Fall 2021
+     
+### Teaching Assistant
+* NCCE 5080 Managing Operations (EMBA Core)
+  * Spring 2022, 2021
+    
+* NCCY 5080 Operations Management (MBA Core)
+  * Fall 2020 
