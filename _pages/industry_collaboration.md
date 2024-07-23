@@ -12,4 +12,4 @@ Food waste is hard to measure, and hard to manage. Most kitchens waste more than
 
 My research on AI and food waste is based on a long partnership with Winnow Solutions. With the first-of-its-kind waste data, I set out to provide the first systemic census of the food wasted in different types of food service establishments, estimate the impact of the availability of detailed waste data on the amount of food wasted, examine additional benefits, if any, from the AI/Image-classification-enabled automated data collection, and identify the mechanisms that drive the benefits of data availability and AI-enabled automation of data collection.
 
-![Winnow_demo](images/Winnow_demo.png)
+![Winnow_demo](./images/Winnow_demo.png)
