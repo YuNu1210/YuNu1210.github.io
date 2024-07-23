@@ -28,8 +28,8 @@ SC Johnson College of Business, Cornell Tech
 ## Professional Service
 ### External Service
 * Co-chair for MSOM SIG Session at INFORMS Annual Meeting, 2024
-* Program committee member for INFORMS Data Science Workshop, 2024
-* Reviwer for BOM Best Student Paper Competition, 2024
+* Program Committee Member for INFORMS Data Science Workshop, 2024
+* Reviewer for BOM Best Student Paper Competition, 2024
   
 ### Internal Service
 * Co-chair for Cornell Johnson OTIM PhD Forum, 2021-2022
