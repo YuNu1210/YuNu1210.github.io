@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Industry Collaboration"
-permalink: /industry/
+permalink: /industry_collaboration/
 author_profile: true
 ---
 
