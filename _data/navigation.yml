@@ -9,8 +9,8 @@ main:
   - title: "Teaching & Service"
     url: /teaching/    
     
-  # - title: "Industry Collaboration"
-  #  url: /industry/
+  - title: "Industry Collaboration"
+    url: /industry_collaboration/
     
   # - title: "CV"
   #  url: /cv/
