@@ -12,7 +12,7 @@ title                    : "Yu Nu/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yu Nu"
 description              : &description "personal description"
-url                      : "https://YuNu1210.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yunu.me"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io", "https://YuNu1210.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "YuNu1210/YuNu1210.github.io"
 
