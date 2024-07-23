@@ -17,7 +17,7 @@ author_profile: true
      <summary>Abstract</summary>
      
      ```
-     *Abstract*: In this study, we estimate the reduction in food waste that arises from the deployment of a system that digitally records instances of food items discarded in a commercial
+     Abstract: In this study, we estimate the reduction in food waste that arises from the deployment of a system that digitally records instances of food items discarded in a commercial
      kitchen. We also shed light on the mechanisms that drive this impact. In a quasi-experimental setting, where the system was deployed in about 900 kitchens in a staggered manner, we
      estimate the impact using synthetic difference-in-differences method. We find that three months after adoption, kitchens generate 29% lower food waste, on average, than they would have
      in the absence of the system--- without any corresponding reductions in sales. Utilizing a long-short-term-memory fully-convolutional-network classifier, we document that these
@@ -26,14 +26,14 @@ author_profile: true
      but very high-impact instances of food wasted that employees avoid entering manually. We also observe substantial effect heterogeneity. Smaller kitchens and those with buffet service
      (vs. table service) experience almost double the reduction in food waste from the adoption of the system and also from the computer vision upgrade.
      ```
-   </details>
+     </details>
 
 * "AI Co-Pilots for Data-Driven Perishable Inventory Management." with Meng Qi, Elena Belavina and Karan Girotra. In preperation for Manuscript.
    * <details>
      <summary>Abstract</summary>
      
      ```
-     *Abstract*: In this study we introduce two AI co-pilots that support perishable inventory management in different intelligent ways. We focus on the periodic review, perishable
+     Abstract: In this study we introduce two AI co-pilots that support perishable inventory management in different intelligent ways. We focus on the periodic review, perishable
      inventory problems with a fixed product shelf life from a nonparametric perspective. One inventory co-pilot is to provide a data-driven prescriptive solution to the dynamic inventory
      control problem, telling how a human decision maker should replenish for the upcoming season given past sales data. The finite sample precision of the estimated inventory policy
      suggests it is accurate enough to use in practice. Building upon the data-driven prescriptive solution, the second co-pilot is an advanced iteration that not only provides prescriptive
@@ -41,7 +41,7 @@ author_profile: true
      decision maker is biased in their inventory decisions, and (if so) also indicates what human bias likely accounts for. Through industrial collaboration with Winnow, we further deploy
      these inventory co-pilots in the real-world commercial kitchens to evaluate their impact on daily food production oversight by kitchen managers.
      ```
-   </details>
+     </details>
   
 * "Identification of Behavioral Decision Models for Perishable Products Using Moment Inequalities." with Elena Belavina and Karan Girotra. Work in progress. 
 
