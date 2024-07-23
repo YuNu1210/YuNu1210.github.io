@@ -15,5 +15,5 @@ My research interests lie at the intersection of sustainability, artificial inte
 
 **I am on the 2024-2025 academic job market**.
 
-You can find my CV here: [[Yu Nu's Curriculum Vitae](https://YuNu1210.github.io/files/YuNu_CV_July24.pdf)].
+You can find my CV here: [[Yu Nu's Curriculum Vitae](https://YuNu1210.github.io/files/YuNu_CV_Jul24.pdf)].
 
