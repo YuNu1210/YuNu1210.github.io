@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## PhD Research
-* "Using Artificial Intelligence to Reduce Food Waste." with Elena Belavina and Karan Girotra. Under review at *Management Science* [[Document](https://YuNu1210.github.io/files/SSRN_Empirical_Winnow.pdf)]
+* "Using Artificial Intelligence to Reduce Food Waste." with Elena Belavina and Karan Girotra. Under review at *Management Science*. [[Document](https://YuNu1210.github.io/files/SSRN_Empirical_Winnow.pdf)]
    * <details>
      <summary>Abstract</summary>
      
