@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 ## Teaching 
 SC Johnson College of Business, Cornell Tech
-### Co-Instructor
+### Co-instructor
 * NCCW 5080 Managing Operations (Healthcare EMBA Core)
-   * Co-host weekly review sessions
+   * Host weekly review sessions and Q&A
    * Fall 2022 (Prof. Elena Belavina)
      
 * NCCY 5080 Managing Operations (MBA Core)
-   * Co-host weekly review sessions
+   * Host weekly review sessions and Q&A
    * Fall 2021 (Prof. Karan Girotra)
      
 ### Teaching Assistant
@@ -33,4 +33,4 @@ SC Johnson College of Business, Cornell Tech
 * Reviewer for INFORMS BOM Best Working Paper Competition, 2024
   
 ### Internal Service
-* Co-Chair for Cornell Johnson OTIM PhD Forum, 2021-2022
+* Co-chair for Cornell Johnson OTIM PhD Forum, 2021-2022
