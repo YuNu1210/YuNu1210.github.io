@@ -12,19 +12,19 @@ author_profile: true
 
 ## Selected Invited Talks
 * "AI Co-Pilots for Data-Driven Perishable Inventory Management." 
-  * **MSOM** Conference, Minneapolis, 2024.
+  * **INFORMS MSOM** Conference, Minneapolis, 2024.
   * **INFORMS** Annual Meeting, Indianapolis, Oct 2022.  
 
 * "Using Artificial Intelligence to Reduce Food Waste."
   * **INFORMS** Annual Meeting, Phoenix, Oct 2023.
-  * **MSOM** Conference, Montreal, Jun 2023. 
+  * **INFORMS MSOM** Conference, Montreal, Jun 2023. 
   * **Early-Career Sustainable OM Workshop**, Amherst, Feb 2023.
   * **CHR Board** Annual Meeting, New York, Nov 2022. 
   * **INFORMS** Annual Meeting, Anaheim, Oct 2021.
   * **Cornell Johnson OTIM PhD Forum**, Cornell University, Dec 2020.
 
 * "Pricing and Capacity Allocation: Implications for Manufacturers with Product Sharing."
-  * **POMS-HK** Conference, Hong Kong, Jan 2018 & 2019. 
+  * **POMS-HK** International Conference, Hong Kong, Jan 2018, 2019. 
 
 * "Interactions of Traceability and Reliability Optimization in a Competitive Supply Chain with Product Recall."
-  * **Workshop on Behavioral Operations Management**, Guangzhou, Dec 2018. 
+  * **International Workshop on Behavioral Operations Management**, Guangzhou, Dec 2018. 
