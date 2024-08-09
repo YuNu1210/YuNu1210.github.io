@@ -13,6 +13,7 @@ author_profile: true
 
 ## PhD Research
 * "Using Artificial Intelligence to Reduce Food Waste." with Elena Belavina and Karan Girotra. Major Revision at *Management Science*. [[Document](https://YuNu1210.github.io/files/SSRN_Empirical_Winnow.pdf)]
+   * Finalists in the 2024 INFORMS Technology, Innovation Management, and Entrepreneurship Section's (TIMES) Best Working Paper Competition.
    * <details>
      <summary>Abstract</summary>
      
