@@ -18,6 +18,8 @@ SC Johnson College of Business, Cornell Tech
    * Fall 2021 (Prof. Karan Girotra)
      
 ### Teaching Assistant
+* NBAY 6760 Decision Models (MBA Elective)
+  * Fall 2024 (Prof. Elena Belavina)
 * NCCE 5080 Managing Operations (EMBA Core)
   * Spring 2022 (Prof. Andrew Davis)
   * Spring 2021 (Prof. Karan Girotra)
