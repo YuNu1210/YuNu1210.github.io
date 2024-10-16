@@ -42,7 +42,7 @@ author_profile: true
   
      </details>
   
-* "Identification of Behavioral Decision Models for Perishable Products Using Moment Inequalities." with Elena Belavina and Karan Girotra. Work in progress. 
+* "An Experimental Study on Integrating Algorithmic Prescriptions with Human Operators' Workflows in Commercial Kitchens." with Elena Belavina and Karan Girotra. Work in progress. 
 
 ## Undergraduate Research
 * "Pricing and Capacity Allocation: Implications for Manufacturers with Product Sharing." with Bin Dai. *Naval Research Logistics* 2020, 67(3): 201-222. [[Document](https://YuNu1210.github.io/files/NRL_ProductSharing.pdf)]
