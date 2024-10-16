@@ -28,7 +28,7 @@ author_profile: true
   
      </details>
 
-* "AI Co-Pilots for Data-Driven Perishable Inventory Management." with Meng Qi, Elena Belavina and Karan Girotra. In preperation for Manuscript.
+* "AI Co-Pilots for Data-Driven Perishable Inventory Management." with Meng Qi, Elena Belavina and Karan Girotra. Draft Available Upon Request.
    * <details>
      <summary>Abstract</summary>
      
