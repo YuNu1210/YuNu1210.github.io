@@ -9,7 +9,6 @@ author_profile: true
 ## Upcoming Talks
 * **INFORMS** Annual Meeting, Seattle, Oct 2024. "Using Artificial Intelligence to Reduce Food Waste."
 * **Wharton Empirical Operations Management Workshop (EMPOM)**, Philadelphia, Oct 2024. "Using Artificial Intelligence to Reduce Food Waste."
-* **First Workshop on Food Waste Reduction**, Munich/Straubing, Sep 2024. "Using Artificial Intelligence to Reduce Food Waste."
 
 ## Selected Invited Talks
 * "AI Co-Pilots for Data-Driven Perishable Inventory Management." 
@@ -17,6 +16,7 @@ author_profile: true
   * **INFORMS** Annual Meeting, Indianapolis, Oct 2022.  
 
 * "Using Artificial Intelligence to Reduce Food Waste."
+  * **First Workshop on Food Waste Reduction**, Munich/Straubing, Sep 2024.
   * **INFORMS** Annual Meeting, Phoenix, Oct 2023.
   * **INFORMS MSOM** Conference, Montreal, Jun 2023. 
   * **Early-Career Sustainable OM Workshop**, Amherst, Feb 2023.
