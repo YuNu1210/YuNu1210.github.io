@@ -18,9 +18,7 @@ My research interests lie at the intersection of sustainability, artificial inte
 You can find my CV here: [[Yu Nu's Curriculum Vitae](https://YuNu1210.github.io/files/YuNu_CV_241015.pdf)].
 
 I'm going to present my job market paper at INFORMS 2024 in Seattle, welcome to join me! 
-**Oct 20 (Sunday), 12:45PM-2:00PM, room Summit—446, Agriculture and Food Technology and Innovation** 
-
-**Oct 21 (Monday), 12:45PM-2:00PM, room Summit—347, TIMES Best Working Paper Competition**
-
-**Oct 22 (Tuesday), 2:15PM-3:30PM, room Summit—446, Sustainability and Business Model Innovation**
+* **Oct 20 (Sunday), 12:45PM-2:00PM, room Summit—446, Agriculture and Food Technology and Innovation**
+* **Oct 21 (Monday), 12:45PM-2:00PM, room Summit—347, TIMES Best Working Paper Competition**
+* **Oct 22 (Tuesday), 2:15PM-3:30PM, room Summit—446, Sustainability and Business Model Innovation**
 
