@@ -13,7 +13,7 @@ I am Yu Nu, a final-year PhD candidate in the [Operations, Technology, and Infor
 
 My research interests lie at the interface of sustainability, AI, and operations. I am particularly passionate about exploring how AI-based technologies can transform food waste management within commercial kitchens. Also, I integrate advanced data-driven analytics and insights into human-AI interaction to pioneer innovative solutions for effectively managing perishable inventory systems. I use full stack of data tools, including causal inference analyses, machine learning techniques, data-driven optimization strategies, and experiments.  
 
-**I am on the 2024-2025 academic job market**. 
+**I am on the 2024-2025 academic job market**.  
 
 You can find my CV here: [[Yu Nu's Curriculum Vitae](https://YuNu1210.github.io/files/YuNu_CV_241015.pdf)].
 
