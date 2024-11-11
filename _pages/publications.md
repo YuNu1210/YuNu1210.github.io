@@ -33,13 +33,14 @@ author_profile: true
    * <details>
      <summary>Abstract</summary>
      
-     In this study we introduce two AI co-pilots that support perishable inventory management in different intelligent ways. We focus on the periodic review, perishable
-     inventory problems with a fixed product shelf life from a nonparametric perspective. One inventory co-pilot is to provide a data-driven prescriptive solution to the dynamic inventory
-     control problem, telling how a human decision maker should replenish for the upcoming season given past sales data. The finite sample precision of the estimated inventory policy
-     suggests it is accurate enough to use in practice. Building upon the data-driven prescriptive solution, the second co-pilot is an advanced iteration that not only provides prescriptive
-     solutions but also detects potential human biases in managing perishable inventory. Utilizing machine learning techniques, it identifies from past user behavior whether a human
-     decision maker is biased in their inventory decisions, and (if so) also indicates what human bias likely accounts for. Through industrial collaboration with Winnow, we further deploy
-     these inventory co-pilots in the real-world commercial kitchens to evaluate their impact on daily food production oversight by kitchen managers.
+     In this study we introduce two AI co-pilots that support perishable inventory management differently. To be more specific, we focus on the periodic review, perishable inventory management
+     problem for perishable goods with a fixed product shelf life. One inventory co-pilot is to provide a data-driven prescriptive solution to the multi-period inventory control problem,
+     directly telling how much a human decision maker should replenish for the upcoming season given past sales data. We justify this prescriptive co-pilot with associated performance
+     guarantees. Building on the data-driven prescriptive copilot, the second copilot is enhanced in terms of detecting potential human decision-making biases in managing perishable inventory.
+     Using machine learning models, it identifies from past user behavior whether a human decision maker is biased in their inventory decision making, and (if so) it also indicates what human
+     bias likely accounts for. Through an online experiment with Prolific workers, we further investigate how human users react to the deployment of different forms of AI assistance and explain
+     why it happens. We find both types of inventory copilots- whether providing data-driven prescriptive solutions or bias detection, enhance perishable inventory management performance for
+     human decision-makers. Additionally, integrating bias detection with prescriptive solutions could foster greater human adherence to algorithmic recommendations. 
   
      </details>
   
