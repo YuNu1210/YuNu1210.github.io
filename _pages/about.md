@@ -15,5 +15,5 @@ My research interests lie at the interface of sustainability, AI, and operations
 
 You can find my CV here: [[Yu Nu's Curriculum Vitae](https://YuNu1210.github.io/files/YuNu_CV_250127.pdf)]. 
 
-**UPDATE: I will be joining University of South Carolina, Darla Moore School of Business as an assistant professor in August 2025**.  
+**UPDATE: I will be joining the University of South Carolina, Darla Moore School of Business as an assistant professor in August 2025**.  
 
