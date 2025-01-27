@@ -13,7 +13,7 @@ I am Yu Nu, a final-year PhD candidate in the [Operations, Technology, and Infor
 
 My research interests lie at the interface of sustainability, AI, and operations. I am particularly passionate about exploring how AI-based technologies can transform food waste management within commercial kitchens. Also, I integrate advanced data-driven analytics and insights into human-AI interaction to pioneer innovative solutions for effectively managing perishable inventory systems. I use full stack of data tools, including causal inference analyses, machine learning techniques, data-driven optimization strategies, and experiments.  
 
-**UPDATE: I will be joining University of South Carolina, Darla Moore School of Business as an assistant professor in August 2025**.  
-
 You can find my CV here: [[Yu Nu's Curriculum Vitae](https://YuNu1210.github.io/files/YuNu_CV_250127.pdf)].
+
+**UPDATE: I will be joining University of South Carolina, Darla Moore School of Business as an assistant professor in August 2025**.  
 
