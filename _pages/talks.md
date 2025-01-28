@@ -23,7 +23,8 @@ author_profile: true
   * **Cornell Johnson OTIM PhD Forum**, Cornell University, Dec 2020.
 
 * "Pricing and Capacity Allocation: Implications for Manufacturers with Product Sharing."
-  * **POMS-HK** International Conference, Hong Kong, Jan 2018, 2019. 
+  * **POMS-HK** International Conference, Hong Kong, Jan 2019.
+  * **POMS-HK** International Conference, Hong Kong, Jan 2018. 
 
 * "Interactions of Traceability and Reliability Optimization in a Competitive Supply Chain with Product Recall."
   * **International Workshop on Behavioral Operations Management**, Guangzhou, Dec 2018. 
