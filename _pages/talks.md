@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 ## Selected Invited Talks
 * "AI Co-Pilots for Data-Driven Perishable Inventory Management."
-  * **NeurIPS 2025*** Workshop MLxOR, San Diego, Dec 2025 <em>(scheduled)</em>. 
+  * **NeurIPS 2025** Workshop MLxOR, San Diego, Dec 2025 <em>(scheduled)</em>. 
   * **INFORMS** Annual Meeting, Atlanta, Oct 2025 <em>(scheduled)</em>. 
   *  **INFORMS MSOM** Conference, Minneapolis, 2024.
   * **Early-Career Sustainable OM Workshop**, Amherst, Feb 2023.
