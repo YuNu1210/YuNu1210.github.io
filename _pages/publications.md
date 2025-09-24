@@ -13,6 +13,7 @@ author_profile: true
 
 ## PhD Research
 * "Using Artificial Intelligence to Reduce Food Waste." with Elena Belavina and Karan Girotra. Major Revision at *Management Science*. [[Document](https://YuNu1210.github.io/files/SSRN_Empirical_Winnow_240830.pdf)]
+   * Finalist, 2025 INFORMS Service Science Best Paper Competition - Socially Responsible Research Track. 
    * Finalist, 2024 INFORMS Technology, Innovation Management, and Entrepreneurship Section's (TIMES) Best Working Paper Competition.
    * 2024 Climate Solutions Fund's Award Recipient ($111,114).
    * <details>
@@ -30,6 +31,7 @@ author_profile: true
      </details>
 
 * "AI Co-Pilots for Data-Driven Perishable Inventory Management." with Meng Qi, Elena Belavina and Karan Girotra. Draft Available Upon Request.
+   * Accepted by NeurIPS 2025 Workshop MLxOR.
    * <details>
      <summary>Abstract</summary>
      
