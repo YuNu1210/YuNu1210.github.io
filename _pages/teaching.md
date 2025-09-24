@@ -9,7 +9,7 @@ author_profile: true
 ## Teaching 
 ### Darla Moore School of Business, University of South Carolina
 
- ### Instructor
+### Instructor
 * MGSC 291 Applied Statistics for Business (Undergraduate Core), Fall 2025
   
 ### SC Johnson College of Business, Cornell Tech/Cornell University
