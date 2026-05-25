@@ -7,10 +7,12 @@ author_profile: true
 
 {% include base_path %}
 ## Selected Invited Talks
-* "AI Co-Pilots for Data-Driven Perishable Inventory Management."
-  * **NeurIPS 2025** Workshop MLxOR, San Diego, Dec 2025 <em>(scheduled)</em>. 
-  * **INFORMS** Annual Meeting, Atlanta, Oct 2025 <em>(scheduled)</em>. 
-  *  **INFORMS MSOM** Conference, Minneapolis, 2024.
+* "Human-Centric Perishable Inventory Management with AI Assistance."
+  * **POMS** Annual Meeting, Reno, May 2026. 
+  * **Annual Behavioral Operations Conference**, Tempe, May 2026. 
+  * **BizAI Conference** AI Applications in Business Research, Dallas, Mar 2026. 
+  * **INFORMS** Annual Meeting, Atlanta, Oct 2025. 
+  * **INFORMS MSOM** Conference, Minneapolis, 2024.
   * **Early-Career Sustainable OM Workshop**, Amherst, Feb 2023.
   * **INFORMS** Annual Meeting, Indianapolis, Oct 2022.  
 
