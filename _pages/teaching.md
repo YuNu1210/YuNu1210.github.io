@@ -24,7 +24,8 @@ author_profile: true
 
 ## Professional Service
 ### External Service
-* Ad hoc Reviewer for Production & Operations Management, 2025
+* Ad hoc Reviewer for Production & Operations Management, Omega, 2025-
+* Session Chair at POMS Annual Meeting, 2026
 * Session Chair at INFORMS Annual Meeting, 2024
 * Program Committee Member for INFORMS Data Science Workshop, 2024
 * Reviewer for INFORMS BOM Best Working Paper Competition, 2024
