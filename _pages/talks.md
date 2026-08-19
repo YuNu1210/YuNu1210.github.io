@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 ## Selected Invited Talks
 * "Human-Centric Perishable Inventory Management with AI Assistance."
+  * **INFORMS MSOM** Conference, Boston, 2026.
   * **POMS** Annual Meeting, Reno, May 2026. 
   * **Annual Behavioral Operations Conference**, Tempe, May 2026. 
   * **BizAI Conference** AI Applications in Business Research, Dallas, Mar 2026. 
