@@ -18,6 +18,8 @@ My research interests are in sustainable operations and technology adoption. I s
 
 **Aug 2026** &nbsp; My PhD dissertation on *“AI Solutions for Food Waste Reduction”* was selected as a finalist for the 2026 INFORMS TIMES Doctoral Dissertation Competition.
 
+**Aug 2026** &nbsp; Presented our work *“From Touch to AI: Causal Evidence on Smart-Scale Food-Waste Trackers in Commercial Kitchens”* at the Rotman Young Scholar Seminar, Online.
+
 **Jul 2026** &nbsp; Presented our work *“Human-Centric Perishable Inventory Management with AI Assistance”* at the 2026 INFORMS MSOM Annual Conference, Harvard Boston.
 
 **June 2026** &nbsp; My PhD dissertation on *“AI Solutions for Food Waste Reduction”* won Second Prize in the Doctoral Dissertation Award Competition at the 2026 Supply Chain Analytics Institute Annual Conference, Rutgers Newark. 
