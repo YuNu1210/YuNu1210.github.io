@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## PhD Research
+## Ongoing Research
 * "Using Artificial Intelligence to Reduce Food Waste." with Elena Belavina and Karan Girotra. Major Revision at *Management Science*. [[Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4826777)]
    * Finalist, 2025 INFORMS Service Science Best Paper Competition - Socially Responsible Research Track. 
    * Finalist, 2024 INFORMS Technology, Innovation Management, and Entrepreneurship Section's (TIMES) Best Working Paper Competition.
