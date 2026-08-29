@@ -16,6 +16,8 @@ My research interests are in sustainable operations and technology adoption. I s
 
 ## News
 
+**Aug 2026** &nbsp; Our work *“Human-Centric Perishable Inventory Management with AI Assistance”* was selected as a finalist for the 2026 INFORMS Data Mining Society (DMS) Best Paper Award - General Track.
+
 **Aug 2026** &nbsp; My PhD dissertation on *“AI Solutions for Food Waste Reduction”* was selected as a finalist for the 2026 INFORMS TIMES Doctoral Dissertation Competition.
 
 **Aug 2026** &nbsp; Presented our work *“From Touch to AI: Causal Evidence on Smart-Scale Food-Waste Trackers in Commercial Kitchens”* at the Rotman Young Scholar Seminar, Online.
